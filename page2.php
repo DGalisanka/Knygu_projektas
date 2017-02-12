@@ -1,9 +1,9 @@
 <?php
 
-	$hostname = "mysql.hostinger.lt";
-	$username = "u301441488_dg";
-	$password = "labas1";			
-	$dbname = "u301441488_books";
+	$hostname = "*****";
+	$username = "*****";
+	$password = "*****";			
+	$dbname = "*****";
 
 	$book_id = $_GET['id'];
 
